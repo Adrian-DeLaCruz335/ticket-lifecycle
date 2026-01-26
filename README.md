@@ -63,7 +63,7 @@ This demonstration outlines the lifecycle of a ticket from intake to resolution 
 <br />
 
 <p>
-<img width="865" height="374" alt="image" src="https://github.com/user-attachments/assets/9e8c4149-bf66-4e09-8390-c29dc739950b" />
+<img width="865" height="374" alt="image" src="https://github.com/user-attachments/assets/9e8c4149-bf66-4e09-8390-c29dc739950b" /> <img width="822" height="516" alt="image" src="https://github.com/user-attachments/assets/5e0f0730-43e2-4b14-a57d-18b11caad481" />
 
 </p>
 <p>
@@ -72,7 +72,7 @@ This demonstration outlines the lifecycle of a ticket from intake to resolution 
 <br />
 
 <p>
-<img width="822" height="516" alt="image" src="https://github.com/user-attachments/assets/5e0f0730-43e2-4b14-a57d-18b11caad481" /> <img width="588" height="201" alt="image" src="https://github.com/user-attachments/assets/c709018a-53c0-4e71-aa49-d68083052503" />
+ <img width="588" height="201" alt="image" src="https://github.com/user-attachments/assets/c709018a-53c0-4e71-aa49-d68083052503" />
 
 </p>
 <p>
