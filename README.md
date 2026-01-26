@@ -49,7 +49,7 @@ This demonstration outlines the lifecycle of a ticket from intake to resolution 
 
 </p>
 <p>
-2. Next I selected the priority to be "Emerygency". This is because the issue is critical to the companies overall performance. The SLA in this case would be SEV-A 
+2. Next I selected the priority to be "Emergency". This is because the issue is critical to the companies overall performance. The SLA in this case would be SEV-A 
 </p>
 <br />
 
